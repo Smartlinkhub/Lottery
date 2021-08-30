@@ -5,7 +5,7 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![Twitter][twitter-shield]][twitter-url]
 [![Reddit][reddit-shield]][reddit-url]
-<img width="700" alt="portfolio_view" src="https://token.smartlink.so/wp-content/uploads/2021/04/Logo-HD-1.png">
+<img width="700" alt="portfolio_view" src="https://gateway.pinata.cloud/ipfs/QmPUSnYbmWqueYbwaVdhgyim9Kfsq2MjwE7hNqdzq6RR2v">
 
 # Smartlink <a name="Smartlink"></a>
 Smartlink addresses one of the biggest challenges in the global marketplace: ‘Need to Trust,’ by introducing decentralized escrow services and payments processing based on Tezos' institutional-grade smart contracts that suppress the need for buyers and sellers to trust each other.
